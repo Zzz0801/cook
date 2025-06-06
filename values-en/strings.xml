@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Recipes</string>
+    <string name="title_favorites">My Favorites</string>
+    <string name="change_language">Change Language</string>
+    <string name="select_language">Select Language</string>
+    <string name="setting">Settings</string>
+    <string name="change_profile">Modify Personal Information</string>
+    <string name="search">Search</string>
+    <string name="mine">Me</string>
+    <string name="food">Food</string>
+    <string name="home">Home</string>
+    <string name="daily_recommendation">Daily Recommendation</string>
+    <string name="change">Change</string>
+    <string name="recentFoods">recentFoods</string>
+    <string name="add_food">Add Food</string>
+    <string name="nearExpiryFoods">nearExpiryFoods</string>
+    <string name="expiredFoods">expiredFoods</string>
+    <string name="search_recipes">search recipes...</string>
+    <string name="exit">Exit</string>
+    <string name="change_theme">Theme Change</string>
+</resources>

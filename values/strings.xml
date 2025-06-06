@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">我的食谱</string>
+    <string name="title_favorites">我的收藏</string>
+    <string name="change_language">语言切换</string>
+    <string name="select_language">切换语言</string>
+    <string name="setting">设置</string>
+    <string name="change_profile">修改个人信息</string>
+    <string name="search">搜索</string>
+    <string name="mine">我的</string>
+    <string name="food">食材</string>
+    <string name="home">首页</string>
+    <string name="daily_recommendation">今日推荐</string>
+    <string name="change">换一批</string>
+    <string name="recentFoods">最近添加</string>
+    <string name="add_food">添加食材</string>
+    <string name="nearExpiryFoods">临期</string>
+    <string name="expiredFoods">过期</string>
+    <string name="search_recipes">搜索菜谱...</string>
+    <string name="exit">退出登录</string>
+    <string name="change_theme">换肤设置</string>
+
+</resources>
